@@ -35,7 +35,7 @@ cc_binary {
         "Usb.cpp",
     ],
     shared_libs: [
-        "android.hardware.usb-V3-ndk",
+        "android.hardware.usb-V1-ndk",
         "libbase",
         "libbinder_ndk",
         "libcutils",
